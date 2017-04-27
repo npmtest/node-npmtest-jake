@@ -1,6 +1,6 @@
 # npmtest-jake
 
-#### test coverage for  [jake (v8.0.15)](https://github.com/jakejs/jake#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-jake.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jake) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jake.svg)](https://travis-ci.org/npmtest/node-npmtest-jake)
+#### basic test coverage for  [jake (v8.0.15)](https://github.com/jakejs/jake#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-jake.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jake) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jake.svg)](https://travis-ci.org/npmtest/node-npmtest-jake)
 
 #### JavaScript build tool, similar to Make or Rake
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-jake/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-jake/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-jake/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-jake/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jake/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jake/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-jake/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-jake/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jake/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jake/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-jake/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-jake/build/coverage.html/index.html)
 
